@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @piyushfgk currently work in Govt. organisation under the ministry of defense of production. 
+- 👋 Hi, I’m Piyush Sachan currently work in Govt. organisation under the ministry of defense of production. 
      - My job is to keep all the systems up and running in good condition, currently handling more than 10 servers, including different flavors starting from Windows Server (2016 R2, 2012 R2 & 2008), Windows (10, 8.1, 7, XP), Debian (8, 9.5), Ubuntu 16.0 LTS, BSD System, etc.
-     - I have more than 10+ years of working experience with Linux and Windows operating systems, can work on both command and GUI-based systems.
+     - I have 10+ years of working experience with Linux and Windows operating systems, can work on both command and GUI-based systems.
      - Expertise in handling database servers like Informix 11.5, MariaDB 10, and MySQL, able to configure and manage high-level replication services.
      - More than 5+ years of expertise in PHP web development and Informix 4GL language and RDBMS Language.
      - Able to manage Enterprise level backup systems like FreeNAS experience 3+ Years
