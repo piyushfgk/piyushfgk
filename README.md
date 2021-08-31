@@ -3,12 +3,12 @@
      - I have more than 10+ years of working experience with Linux and Windows operating systems, can work on both command and GUI-based systems.
      - Expertise in handling database servers like Informix 11.5, MariaDB 10, and MySQL, able to configure and manage high-level replication services.
      - More than 5+ years of expertise in PHP web development and Informix 4GL language and RDBMS Language.
-     - Able to manage Enterprise level backup systems like FreeNAS and 3+ Years
-     - 3+ years of experience with Virtualization systems and applications like VMWare client, ESXi Host, and vSphere client
+     - Able to manage Enterprise level backup systems like FreeNAS experience 3+ Years
+     - Also 5+ years of experience in Virtualization systems and applications like VMWare and 3+ years of experience in handling SAN, VMWare ESXi Host, and vSphere client
 - 👀 I’m mostly interested in web & mobile development
 - 🌱 I’m currently working on PHP projects
-- 💞️ I like to learn and work on React & Flutter projects
-- 📫 You can reach me at piyush.fgk@gmail.com
+- 💞️ I like to learn and work on Laravel, React & Flutter projects
+- 📫 You can reach me at piyush@sachan.me
 
 <!---
 piyushfgk/piyushfgk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
